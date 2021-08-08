@@ -1,0 +1,11 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "ccxt": {
+      "version": "1.54.60",
+      "resolved": "https://registry.npmjs.org/ccxt/-/ccxt-1.54.60.tgz",
+      "integrity": "sha512-qZDCfvi012/eb2YkCy1OPYI6SNyN+M3kFStE9Hb2R0+lSF40FY8A6sso3pnoW67cfZX7WBpHxmsZozmhdUTVnw=="
+    }
+  }
+}
