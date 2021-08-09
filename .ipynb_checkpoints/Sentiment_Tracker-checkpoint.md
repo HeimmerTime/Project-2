@@ -41,4 +41,4 @@ Sklearn Accuracy/Reliability
 
 ## Conclusion
 
-
+We were able to gather enough data to train and run the model we created. We received accuracy scores over 50% and if we could gather more data and run different models we could create a more accurate sentiment prediction for Ethereum.  
